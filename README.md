@@ -7,7 +7,7 @@ A sleek, responsive calculator built with HTML, CSS, and JavaScript featuring mo
 ## ✨ Features
 
 - **Glass Morphism UI** - Frosted glass design with subtle animations
-- **Dark/Light Mode** - Toggle between themes with persistent preference
+- **Dark/Light Mode** - Toggle between themes with persistent preference 
 - **Interactive Animations**:
   - Ripple effects on number buttons
   - Pulse effects on operations
